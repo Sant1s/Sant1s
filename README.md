@@ -1,16 +1,13 @@
-## Hi there 👋
+### About Me
+Golang Backend Developer with a strong foundation in computer science from MIPT and experience at leading tech companies like OzonTech and 1C. Passionate about solving complex problems through efficient code, system design, and performance optimization.
 
-<!--
-**Sant1s/Sant1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies:** Go, PostgreSQL, Kafka, gRPC, Kubernetes, Docker, Redis, Prometheus.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Recent Experience & Achievements
+- **OzonTech (Go Developer):** Working on rate-limiting systems. Improved performance via batch processing and database sharding.
+- **TrueConf (Go Developer):** Built a core service for an AI conference transcription project; optimized SQL queries and improved code architecture.
+- **1C (Go Developer):** Developed modules for a cloud configuration storage system using sharded databases and ESB (ActiveMQ).
+
+*Feel free to reach out for collaboration or discussion!*
